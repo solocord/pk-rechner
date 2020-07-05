@@ -3,4 +3,6 @@
     <device id="retina5_5" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
-    <dependen
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuild
