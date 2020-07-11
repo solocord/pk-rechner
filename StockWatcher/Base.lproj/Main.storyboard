@@ -9,4 +9,8 @@
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
-    <scene
+    <scenes>
+        <!--Stocks-->
+        <scene sceneID="VoX-CH-bMx">
+            <objects>
+    
