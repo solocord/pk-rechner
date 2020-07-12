@@ -13,4 +13,4 @@
         <!--Stocks-->
         <scene sceneID="VoX-CH-bMx">
             <objects>
-                <tableViewController id="GxO-QZ-Dum" customClass="StockTableViewC
+                <tableViewController id="GxO-QZ-Dum" customClass="StockTableViewController" customModule="StockWatcher" customModuleProvider="target" sceneMemberID="viewCont
