@@ -14,4 +14,4 @@
         <scene sceneID="VoX-CH-bMx">
             <objects>
                 <tableViewController id="GxO-QZ-Dum" customClass="StockTableViewController" customModule="StockWatcher" customModuleProvider="target" sceneMemberID="viewController">
-                    <tableView key="view" clipsSubviews="YES" contentMode="scaleTo
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" r
