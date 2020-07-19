@@ -16,4 +16,4 @@
                 <tableViewController id="GxO-QZ-Dum" customClass="StockTableViewController" customModule="StockWatcher" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="90" sectionHeaderHeight="28" sectionFooterHeight="28" id="1Yw-7D-761">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
-      
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSiz
