@@ -30,4 +30,5 @@
                                             <rect key="frame" x="8" y="37" width="398" height="21"/>
                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="22"/>
-                         
+                                            <nil key="textColor"/>
+                                 
