@@ -32,4 +32,5 @@
                                             <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                             <nil key="textColor"/>
                                             <nil key="highlightedColor"/>
-                                       
+                                        </label>
+                                        <label opaque="NO" userIntera
