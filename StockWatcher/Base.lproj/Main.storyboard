@@ -38,4 +38,6 @@
                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                             <nil key="textColor"/>
-                                            <nil key="highli
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                
