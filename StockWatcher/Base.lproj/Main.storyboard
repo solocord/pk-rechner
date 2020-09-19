@@ -41,4 +41,6 @@
                                             <nil key="highlightedColor"/>
                                         </label>
                                     </subviews>
-                                </tableViewCellContentVi
+                                </tableViewCellContentView>
+                                <connections>
+                             
