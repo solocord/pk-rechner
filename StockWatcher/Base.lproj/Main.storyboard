@@ -43,4 +43,5 @@
                                     </subviews>
                                 </tableViewCellContentView>
                                 <connections>
-                             
+                                    <outlet property="nameLabel" destination="sFZ-KR-FLI" id="cwj-eA-u8a"/>
+           
