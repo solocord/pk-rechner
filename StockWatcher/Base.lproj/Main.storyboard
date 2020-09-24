@@ -48,4 +48,6 @@
                                     <segue destination="PfD-Qy-HiF" kind="show" identifier="ShowDetail" id="faJ-9A-VZB"/>
                                 </connections>
                             </tableViewCell>
-        
+                        </prototypes>
+                        <connections>
+                    
