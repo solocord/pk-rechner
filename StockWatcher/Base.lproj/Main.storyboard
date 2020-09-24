@@ -46,4 +46,6 @@
                                     <outlet property="nameLabel" destination="sFZ-KR-FLI" id="cwj-eA-u8a"/>
                                     <outlet property="tickerLabel" destination="TK2-9k-OjO" id="vtG-D1-aua"/>
                                     <segue destination="PfD-Qy-HiF" kind="show" identifier="ShowDetail" id="faJ-9A-VZB"/>
-                    
+                                </connections>
+                            </tableViewCell>
+        
