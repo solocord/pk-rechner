@@ -54,4 +54,5 @@
                             <outlet property="delegate" destination="GxO-QZ-Dum" id="LVY-O1-AsM"/>
                         </connections>
                     </tableView>
-                    <
+                    <navigationItem key="navigationItem" title="Stocks" id="hvV-qN-boT">
+                     
