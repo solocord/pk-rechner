@@ -51,4 +51,5 @@
                         </prototypes>
                         <connections>
                             <outlet property="dataSource" destination="GxO-QZ-Dum" id="7H5-aQ-9Ti"/>
-         
+                            <outlet property="delegate" destination="GxO-QZ-Dum" id="LVY-O1-AsM"/>
+       
