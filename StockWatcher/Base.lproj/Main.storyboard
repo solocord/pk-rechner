@@ -55,4 +55,5 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Stocks" id="hvV-qN-boT">
-                     
+                        <barButtonItem key="rightBarButtonItem" systemItem="add" id="SBV-mI-r0M">
+       
