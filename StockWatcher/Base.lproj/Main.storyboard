@@ -57,4 +57,5 @@
                     <navigationItem key="navigationItem" title="Stocks" id="hvV-qN-boT">
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="SBV-mI-r0M">
                             <connections>
-                                <segue destinat
+                                <segue destination="N8d-rf-mNd" kind="presentation" identifier="AddItem" id="lzJ-SO-2GP"/>
+                 
