@@ -60,4 +60,6 @@
                                 <segue destination="N8d-rf-mNd" kind="presentation" identifier="AddItem" id="lzJ-SO-2GP"/>
                             </connections>
                         </barButtonItem>
-                   
+                    </navigationItem>
+                </tableViewController>
+                <plac
