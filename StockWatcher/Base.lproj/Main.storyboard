@@ -67,4 +67,6 @@
             <point key="canvasLocation" x="7.2463768115942031" y="-436.14130434782612"/>
         </scene>
         <!--New Stock-->
-        <scene sceneID="8r0-NL-Lm
+        <scene sceneID="8r0-NL-LmF">
+            <objects>
+                <viewController id="PfD-Qy-HiF" 
