@@ -69,4 +69,4 @@
         <!--New Stock-->
         <scene sceneID="8r0-NL-LmF">
             <objects>
-                <viewController id="PfD-Qy-HiF" 
+                <viewController id="PfD-Qy-HiF" customClass="StocksViewsController" customModule="StockWatcher" customModuleProvider="tar
