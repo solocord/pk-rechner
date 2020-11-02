@@ -72,4 +72,6 @@
                 <viewController id="PfD-Qy-HiF" customClass="StocksViewsController" customModule="StockWatcher" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Lr4-iC-cxi"/>
-                        <viewControllerLayoutGuide type="bottom" id="3
+                        <viewControllerLayoutGuide type="bottom" id="3Xm-9D-vE6"/>
+                    </layoutGuides>
+                    <view 
