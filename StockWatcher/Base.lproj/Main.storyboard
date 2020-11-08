@@ -74,4 +74,5 @@
                         <viewControllerLayoutGuide type="top" id="Lr4-iC-cxi"/>
                         <viewControllerLayoutGuide type="bottom" id="3Xm-9D-vE6"/>
                     </layoutGuides>
-                    <view 
+                    <view key="view" contentMode="scaleToFill" id="VVL-1z-gsL">
+                  
