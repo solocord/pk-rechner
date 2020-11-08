@@ -75,4 +75,5 @@
                         <viewControllerLayoutGuide type="bottom" id="3Xm-9D-vE6"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="VVL-1z-gsL">
-                  
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+              
