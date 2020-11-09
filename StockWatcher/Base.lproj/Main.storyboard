@@ -76,4 +76,4 @@
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="VVL-1z-gsL">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
-              
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heigh
