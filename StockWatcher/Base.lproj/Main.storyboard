@@ -79,4 +79,5 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="8lr-cD-kmb">
-                                <rect key="frame
+                                <rect key="frame" x="20" y="84" width="374" height="68"/>
+                                <subviews>
