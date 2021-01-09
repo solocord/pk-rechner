@@ -109,4 +109,5 @@
                             <constraint firstAttribute="trailingMargin" secondItem="8lr-cD-kmb" secondAttribute="trailing" id="eZt-PM-zNB"/>
                         </constraints>
                     </view>
-                    <navigationItem
+                    <navigationItem key="navigationItem" title="New Stock" id="2Id-QD-s1a">
+                      
