@@ -111,3 +111,5 @@
                     </view>
                     <navigationItem key="navigationItem" title="New Stock" id="2Id-QD-s1a">
                         <barButtonItem key="leftBarButtonItem" systemItem="cancel" id="gdf-a0-fqs">
+                            <connections>
+                                <action selec
