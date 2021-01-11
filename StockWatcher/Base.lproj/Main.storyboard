@@ -113,4 +113,6 @@
                         <barButtonItem key="leftBarButtonItem" systemItem="cancel" id="gdf-a0-fqs">
                             <connections>
                                 <action selector="cancel:" destination="PfD-Qy-HiF" id="c1Q-yh-Ztg"/>
-                   
+                            </connections>
+                        </barButtonItem>
+                      
