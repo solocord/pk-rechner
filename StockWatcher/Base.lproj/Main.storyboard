@@ -116,4 +116,5 @@
                             </connections>
                         </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" systemItem="save" id="s7c-na-6dC">
-           
+                            <connections>
+                                <segue destinati
