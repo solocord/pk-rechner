@@ -117,4 +117,4 @@
                         </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" systemItem="save" id="s7c-na-6dC">
                             <connections>
-                                <segue destinati
+                                <segue destination="NBx-vO-6hW" kind="unwind" unwindAction="unwindToStockListWithSender:
