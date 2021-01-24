@@ -122,4 +122,5 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
-                        <outlet property="nameTextFie
+                        <outlet property="nameTextField" destination="1np-sI-MQB" id="dcW-yT-otl"/>
+                        <outlet 
