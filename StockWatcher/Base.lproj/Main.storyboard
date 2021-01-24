@@ -119,4 +119,6 @@
                             <connections>
                                 <segue destination="NBx-vO-6hW" kind="unwind" unwindAction="unwindToStockListWithSender:" id="JIq-9m-8tZ"/>
                             </connections>
+                        </barButtonItem>
+                    </navigationItem>
               
