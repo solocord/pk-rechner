@@ -121,4 +121,5 @@
                             </connections>
                         </barButtonItem>
                     </navigationItem>
-              
+                    <connections>
+                        <outlet property="nameTextFie
