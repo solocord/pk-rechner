@@ -123,4 +123,5 @@
                     </navigationItem>
                     <connections>
                         <outlet property="nameTextField" destination="1np-sI-MQB" id="dcW-yT-otl"/>
-                        <outlet 
+                        <outlet property="saveButton" destination="s7c-na-6dC" id="HIh-G7-OOX"/>
+           
