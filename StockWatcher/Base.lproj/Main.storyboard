@@ -127,4 +127,5 @@
                         <outlet property="tickerTextField" destination="xOO-HK-azr" id="U6f-wZ-l9k"/>
                     </connections>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstRespon
+                <placeholder placeholderIdentifier="IBFirstResponder" id="j9Q-SY-QGR" userLabel="First Responder" sceneMemberID="firstResponder"/>
+        
