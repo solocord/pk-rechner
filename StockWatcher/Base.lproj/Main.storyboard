@@ -133,4 +133,6 @@
             <point key="canvasLocation" x="1879.7101449275365" y="-436.14130434782612"/>
         </scene>
         <!--Navigation Controller-->
-        <scene sceneID="e
+        <scene sceneID="e3c-el-7tX">
+            <objects>
+                <navigationControl
