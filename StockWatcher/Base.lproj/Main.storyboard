@@ -135,4 +135,4 @@
         <!--Navigation Controller-->
         <scene sceneID="e3c-el-7tX">
             <objects>
-                <navigationControl
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="utU-bf-2SH" sceneMemberID="v
