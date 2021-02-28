@@ -138,4 +138,5 @@
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="utU-bf-2SH" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="0ia-Kd-ilA">
-                        
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                        <aut
