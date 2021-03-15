@@ -149,4 +149,6 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="s7E-9N-ctF" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-900.00000000000011" y="-436.14130434782612"/>
-        </scene
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="N66-6Z-dwp">
