@@ -152,3 +152,5 @@
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="N66-6Z-dwp">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets=
