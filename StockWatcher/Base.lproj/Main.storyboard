@@ -156,4 +156,5 @@
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="N8d-rf-mNd" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="evU-Xa-HzM">
-                        <rect key="fra
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+              
