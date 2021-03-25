@@ -154,4 +154,5 @@
         <scene sceneID="N66-6Z-dwp">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="N8d-rf-mNd" sceneMemberID="viewController">
-                    <
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode=
