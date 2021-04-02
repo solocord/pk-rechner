@@ -10,4 +10,6 @@ import UIKit
 
 class StockTableViewCell: UITableViewCell {
 
-    // MARK: - Properti
+    // MARK: - Properties
+    @IBOutlet weak var tickerLabel: UILabel!
+    @IBOutlet weak var nameLabel: 
