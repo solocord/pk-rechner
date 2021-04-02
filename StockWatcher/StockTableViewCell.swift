@@ -12,4 +12,8 @@ class StockTableViewCell: UITableViewCell {
 
     // MARK: - Properties
     @IBOutlet weak var tickerLabel: UILabel!
-    @IBOutlet weak var nameLabel: 
+    @IBOutlet weak var nameLabel: UILabel!
+    
+    override func awakeFromNib() {
+        super.awakeFromNib()
+    
