@@ -111,3 +111,93 @@ class StockTableViewController: UITableViewController {
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         
         super.prepare(for: segue, sender: sender)
+        
+        switch(segue.identifier ?? "") {
+            
+            case "AddItem":
+                os_log("Adding a new stock.", log: OSLog.default, type: .debug)
+            
+            case "ShowDetail":
+                guard let stockDetailViewController = segue.destination as? StocksViewsController
+                    else {
+                        fatalError("Unexpected destination: \(segue.destination)")
+                }
+            
+                guard let selectedStockCell = sender as? StockTableViewCell else {
+                    fatalError("Unexpected sender: \(sender)")
+                }
+            
+                guard let indexPath = tableView.indexPath(for: selectedStockCell) else {
+                    fatalError("The selected cell is not being displayed by the table")
+                }
+            
+                let selectedStock = stocks[indexPath.row]
+                stockDetailViewController.stock = selectedStock
+            
+            default:
+                fatalError("Unexpected Segue Identifier; \(segue.identifier)")
+        }
+    }
+    
+    // MARK: - Actions
+    
+    @IBAction func unwindToStockList(sender: UIStoryboardSegue) {
+        // Incoming sender from StocksViewController
+        if let sourceViewController = sender.source as? StocksViewsController, let stock = sourceViewController.stock {
+                
+            // Was a row in the table selected?
+            if let selectedIndexPath = tableView.indexPathForSelectedRow {
+                // Update an existing stock
+                stocks[selectedIndexPath.row] = stock
+                tableView.reloadRows(at: [selectedIndexPath], with: .none)
+            }
+            else {
+                // User didn't tap the table. Therefore, add a new stock
+                let newIndexPath = IndexPath(row: stocks.count, section: 0)
+            
+                stocks.append(stock)
+                tableView.insertRows(at: [newIndexPath], with: .automatic)
+            }
+            
+            // Save the stocks.
+            saveStocks()
+        }
+    }
+    
+    // MARK: - Private Methods
+    
+    private func loadSampleStocks() {
+        
+        // Create test data
+        guard let stock1 = Stock(name: "AT&T", ticker: "T") else {
+            fatalError("Unable to instantiate stock1")
+        }
+        
+        guard let stock2 = Stock(name: "Verizon", ticker: "VZ") else {
+            fatalError("Unable to instantiate stock2")
+        }
+        
+        guard let stock3 = Stock(name: "Apple", ticker: "AAPL") else {
+            fatalError("Unable to instantiate stock3")
+        }
+        
+        // Add above test data to the Stocks[] array
+        stocks += [stock1, stock2, stock3]
+    }
+    
+    private func saveStocks() {
+        
+        let isSuccessfulSave = NSKeyedArchiver.archiveRootObject(stocks, toFile: Stock.ArchiveURL.path)
+        
+        if isSuccessfulSave {
+            os_log("Stocks successfully saved.", log: OSLog.default, type: .debug)
+        } else {
+            os_log("Failed to save stocks...", log: OSLog.default, type: .debug)
+        }
+    }
+    
+    private func loadStocks() -> [Stock]? {
+        
+        return NSKeyedUnarchiver.unarchiveObject(withFile: Stock.ArchiveURL.path) as? [Stock]
+    }
+}
