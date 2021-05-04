@@ -16,4 +16,6 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
     // MARK: - Properties
     @IBOutlet weak var tickerTextField: UITextField!
     @IBOutlet weak var nameTextField: UITextField!
-    @IBOutlet weak var saveButton: UIBarButtonIte
+    @IBOutlet weak var saveButton: UIBarButtonItem!
+    
+    // This value is either passed by `StockTableViewController` in `pr
