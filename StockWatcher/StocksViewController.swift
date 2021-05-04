@@ -10,4 +10,7 @@
 import UIKit
 import os.log
 
-// MARK: -
+// MARK: - Class
+class StocksViewsController: UIViewController, UITextFieldDelegate {
+
+ 
