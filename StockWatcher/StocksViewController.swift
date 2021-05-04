@@ -13,4 +13,6 @@ import os.log
 // MARK: - Class
 class StocksViewsController: UIViewController, UITextFieldDelegate {
 
- 
+    // MARK: - Properties
+    @IBOutlet weak var tickerTextField: UITextField!
+    @IBOutl
