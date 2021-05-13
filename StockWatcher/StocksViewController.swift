@@ -27,4 +27,5 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         
         super.viewDidLoad()
         
-        // Handle the tex
+        // Handle the text field's user input through delegate callbacks
+        nameTextField.delegate = self
