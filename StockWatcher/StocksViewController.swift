@@ -20,4 +20,7 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
     
     // This value is either passed by `StockTableViewController` in `prepare(for:sender:)`
     // or constructed as part of adding a new stock.
+    var stock: Stock?
     
+    // MARK: - viewDidLoad
+    override func viewDidLoad(
