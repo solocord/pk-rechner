@@ -23,4 +23,8 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
     var stock: Stock?
     
     // MARK: - viewDidLoad
-    override func viewDidLoad(
+    override func viewDidLoad() {
+        
+        super.viewDidLoad()
+        
+        // Handle the tex
