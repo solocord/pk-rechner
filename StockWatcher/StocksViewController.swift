@@ -29,3 +29,5 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         
         // Handle the text field's user input through delegate callbacks
         nameTextField.delegate = self
+        
+        // Set up views if editing an existing stoc
