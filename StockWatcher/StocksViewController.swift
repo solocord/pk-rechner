@@ -38,4 +38,9 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         }
         
         // Enable the save button only if the text field has a valid Stock name.
-        updateSaveButton
+        updateSaveButtonState()
+    }
+    
+    // MARK: - UITextFieldDelegate
+    //
+    // Text field should let go
