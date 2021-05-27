@@ -34,4 +34,7 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         if let stock = stock {
             navigationItem.title = stock.name
             nameTextField.text = stock.name
-  
+            tickerTextField.text = stock.ticker
+        }
+        
+        // Enable th
