@@ -32,4 +32,6 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         
         // Set up views if editing an existing stock
         if let stock = stock {
-            navigationItem.title
+            navigationItem.title = stock.name
+            nameTextField.text = stock.name
+  
