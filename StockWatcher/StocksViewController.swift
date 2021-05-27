@@ -37,4 +37,5 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
             tickerTextField.text = stock.ticker
         }
         
-        // Enable th
+        // Enable the save button only if the text field has a valid Stock name.
+        updateSaveButton
