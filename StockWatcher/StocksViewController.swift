@@ -51,4 +51,6 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         return true
     }
     
-    func textFieldDidBeginEditing(_ textFi
+    func textFieldDidBeginEditing(_ textField: UITextField) {
+        // Disable the save button while editing.
+        s
