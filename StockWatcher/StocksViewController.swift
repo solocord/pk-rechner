@@ -44,4 +44,7 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
     // MARK: - UITextFieldDelegate
     //
     // Text field should let go of First Responder status
-    func textFieldShouldReturn(_ textField: UITextField)
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        // Hide the keyboard
+        textField.resignFirstResponder()
+  
