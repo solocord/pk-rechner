@@ -59,4 +59,8 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
     func textFieldDidEndEditing(_ textField: UITextField) {
         
         updateSaveButtonState()
-        navigationItem.title
+        navigationItem.title = nameTextField.text
+    }
+    
+    // MARK: - Navigation
+    @IBActio
