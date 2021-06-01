@@ -56,4 +56,7 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         saveButton.isEnabled = false
     }
     
-    func textFieldDidEndEditing(_ textFi
+    func textFieldDidEndEditing(_ textField: UITextField) {
+        
+        updateSaveButtonState()
+        navigationItem.title
