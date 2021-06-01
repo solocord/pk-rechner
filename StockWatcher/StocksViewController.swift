@@ -43,4 +43,5 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
     
     // MARK: - UITextFieldDelegate
     //
-    // Text field should let go
+    // Text field should let go of First Responder status
+    func textFieldShouldReturn(_ textField: UITextField)
