@@ -63,4 +63,5 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
     }
     
     // MARK: - Navigation
-    @IBActio
+    @IBAction func cancel(_ sender: UIBarButtonItem) {
+        // Depending
