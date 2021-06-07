@@ -67,4 +67,4 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         // Depending on style of presentation (modal or push presentation), this view
         // controller needs to be dismissed in two different ways.
         
- 
+        // Is the view controller presenting the scene of type UINavigationController
