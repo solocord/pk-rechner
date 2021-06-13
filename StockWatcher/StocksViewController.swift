@@ -76,4 +76,6 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
             
             // Otherwise, user is editing existing item, as stock detail was pushed
             // onto the navigation stack on tapping stock item
-        } else if let owningNavigation
+        } else if let owningNavigationController = navigationController{
+            
+            // Pop view controller
