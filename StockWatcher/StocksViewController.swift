@@ -68,4 +68,6 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         // controller needs to be dismissed in two different ways.
         
         // Is the view controller presenting the scene of type UINavigationController?
-        let isPresentingInAddStockMode = presentingViewController is UINavigati
+        let isPresentingInAddStockMode = presentingViewController is UINavigationController
+        
+        // If true (user tapped Add, which is embedded in its ow
