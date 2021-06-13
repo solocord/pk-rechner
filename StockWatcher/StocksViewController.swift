@@ -70,4 +70,6 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         // Is the view controller presenting the scene of type UINavigationController?
         let isPresentingInAddStockMode = presentingViewController is UINavigationController
         
-        // If true (user tapped Add, which is embedded in its ow
+        // If true (user tapped Add, which is embedded in its own navigation controller
+        if isPresentingInAddStockMode {
+            d
