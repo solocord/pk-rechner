@@ -74,4 +74,5 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         if isPresentingInAddStockMode {
             dismiss(animated: true, completion: nil)
             
-            // Otherwis
+            // Otherwise, user is editing existing item, as stock detail was pushed
+            
