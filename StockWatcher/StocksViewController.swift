@@ -75,4 +75,5 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
             dismiss(animated: true, completion: nil)
             
             // Otherwise, user is editing existing item, as stock detail was pushed
-            
+            // onto the navigation stack on tapping stock item
+        } else if let owningNavigation
