@@ -72,4 +72,6 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         
         // If true (user tapped Add, which is embedded in its own navigation controller
         if isPresentingInAddStockMode {
-            d
+            dismiss(animated: true, completion: nil)
+            
+            // Otherwis
