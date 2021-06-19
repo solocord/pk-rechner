@@ -81,4 +81,9 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
             // Pop view controller off the navigation stack, returning user to stock list
             owningNavigationController.popViewController(animated: true)
         } else {
-            fatalError("The StockViewController is not inside a navigation controller.
+            fatalError("The StockViewController is not inside a navigation controller.")
+        }
+    }
+
+    
+    // This method lets you configure a view controller before it
