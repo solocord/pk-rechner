@@ -91,4 +91,5 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         
         super.prepare(for: segue, sender: sender)
         
-        // Configure th
+        // Configure the destination view controller only when the save button is tapped.
+        guard let 
