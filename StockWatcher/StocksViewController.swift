@@ -79,4 +79,6 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         } else if let owningNavigationController = navigationController{
             
             // Pop view controller off the navigation stack, returning user to stock list
-            owningNavigationContro
+            owningNavigationController.popViewController(animated: true)
+        } else {
+            fatalError(
