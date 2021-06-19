@@ -86,4 +86,6 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
     }
 
     
-    // This method lets you configure a view controller before it
+    // This method lets you configure a view controller before it's presented
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+   
