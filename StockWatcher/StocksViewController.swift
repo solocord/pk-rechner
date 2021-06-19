@@ -78,4 +78,5 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
             // onto the navigation stack on tapping stock item
         } else if let owningNavigationController = navigationController{
             
-            // Pop view controller
+            // Pop view controller off the navigation stack, returning user to stock list
+            owningNavigationContro
