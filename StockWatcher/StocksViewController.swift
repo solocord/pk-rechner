@@ -97,4 +97,6 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
             return
         }
         
-        let name = nameTextField.text ?
+        let name = nameTextField.text ?? ""
+        let ticker = tickerTextField.text ?? ""
+       
