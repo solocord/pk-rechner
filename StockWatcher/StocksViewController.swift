@@ -100,4 +100,8 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         let name = nameTextField.text ?? ""
         let ticker = tickerTextField.text ?? ""
         
-        // Set the stock to be passed to StockTableViewController after t
+        // Set the stock to be passed to StockTableViewController after the unwind segue
+        stock = Stock(name: name, ticker: ticker)
+    }
+    
+   
