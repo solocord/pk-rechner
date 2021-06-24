@@ -99,4 +99,5 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         
         let name = nameTextField.text ?? ""
         let ticker = tickerTextField.text ?? ""
-       
+        
+        // Set the stock to be passed to StockTableViewController after t
