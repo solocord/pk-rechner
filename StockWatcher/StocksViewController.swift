@@ -104,4 +104,6 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
         stock = Stock(name: name, ticker: ticker)
     }
     
-   
+    // MARK: - Actions
+    //@IBAction func setDefaultLabelText(_ sender: UIButton) {
+    /
