@@ -109,4 +109,6 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
     //    mealNameLabel.text = "Default Text"
     //}
     
-    // MARK: - Private Metho
+    // MARK: - Private Methods
+    private func updateSaveButtonState() {
+        // Disable the save button
