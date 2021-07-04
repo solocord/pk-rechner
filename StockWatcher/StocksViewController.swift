@@ -112,4 +112,6 @@ class StocksViewsController: UIViewController, UITextFieldDelegate {
     // MARK: - Private Methods
     private func updateSaveButtonState() {
         // Disable the save button if the name or ticker fields are empty
-        let nameText = nameTextField.text 
+        let nameText = nameTextField.text ?? ""
+        let tickerText = tickerTextField.text ?? ""
+        saveButton.isEnabled = !
