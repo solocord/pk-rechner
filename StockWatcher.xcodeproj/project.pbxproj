@@ -7,4 +7,4 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C21C7E2C1E4AB1C60
+		C21C7E2C1E4AB1C60024474E /* StockTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileR
