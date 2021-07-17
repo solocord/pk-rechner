@@ -11,4 +11,4 @@
 		C2B1515C1E4AB78A00D682D8 /* StockTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2B1515A1E4AB78A00D682D8 /* StockTableViewController.swift */; };
 		C2B1515D1E4AB78A00D682D8 /* StockTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C2B1515B1E4AB78A00D682D8 /* StockTableViewController.xib */; };
 		C2CFE2021E412340007C8894 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CFE2011E412340007C8894 /* AppDelegate.swift */; };
-		C2CFE2071E412340007C8894 /* Main.storyboar
+		C2CFE2071E412340007C8894 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2CFE2051E412340007C8894 
