@@ -17,4 +17,4 @@
 		C2CFE2171E412340007C8894 /* StockWatcherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CFE2161E412340007C8894 /* StockWatcherTests.swift */; };
 		C2CFE2221E412340007C8894 /* StockWatcherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CFE2211E412340007C8894 /* StockWatcherUITests.swift */; };
 		C2F5D4DE1E44F0BE009824F1 /* StocksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F5D4DD1E44F0BE009824F1 /* StocksViewController.swift */; };
-		C2F5D4E01E44F4BB009824F1 /* Stock.sw
+		C2F5D4E01E44F4BB009824F1 /* Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F5D4DF1E44F4BB009824F1 /*
