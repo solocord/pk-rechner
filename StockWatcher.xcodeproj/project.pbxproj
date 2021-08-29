@@ -22,4 +22,6 @@
 
 /* Begin PBXContainerItemProxy section */
 		C2CFE2131E412340007C8894 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy
+			isa = PBXContainerItemProxy;
+			containerPortal = C2CFE1F61E412340007C8894 /* Project object */;
+			proxyType = 1
