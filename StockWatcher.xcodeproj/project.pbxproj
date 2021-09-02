@@ -29,4 +29,5 @@
 			remoteInfo = StockWatcher;
 		};
 		C2CFE21E1E412340007C8894 /* PBXContainerItemProxy */ = {
-			isa = PBXCon
+			isa = PBXContainerItemProxy;
+			containerPortal = C2CFE1F61E412340007C8894 /* Projec
