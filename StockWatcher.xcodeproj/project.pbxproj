@@ -32,4 +32,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = C2CFE1F61E412340007C8894 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = C2CFE1FD1E412340007C8
+			remoteGlobalIDString = C2CFE1FD1E412340007C8894;
+			remoteInfo = StockWatcher;
+		};
+/* End PBXContainerI
