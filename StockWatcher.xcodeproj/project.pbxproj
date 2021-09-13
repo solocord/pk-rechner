@@ -38,4 +38,4 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		C21C7E2B1E4AB1C60024474E /* StockTableViewCell.
+		C21C7E2B1E4AB1C60024474E /* StockTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path
