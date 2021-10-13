@@ -43,4 +43,5 @@
 		C2B1515B1E4AB78A00D682D8 /* StockTableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StockTableViewController.xib; sourceTree = "<group>"; };
 		C2CFE1FE1E412340007C8894 /* StockWatcher.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StockWatcher.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2CFE2011E412340007C8894 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C2CFE2061E412340007C8894 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name =
+		C2CFE2061E412340007C8894 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C2CFE2081E412340
