@@ -52,3 +52,4 @@
 		C2CFE2181E412340007C8894 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C2CFE21D1E412340007C8894 /* StockWatcherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StockWatcherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2CFE2211E412340007C8894 /* StockWatcherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockWatcherUITests.swift; sourceTree = "<group>"; };
+		C2CFE2231E412340007C8894 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = te
