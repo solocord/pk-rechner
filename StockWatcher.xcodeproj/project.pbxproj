@@ -53,4 +53,5 @@
 		C2CFE21D1E412340007C8894 /* StockWatcherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StockWatcherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2CFE2211E412340007C8894 /* StockWatcherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockWatcherUITests.swift; sourceTree = "<group>"; };
 		C2CFE2231E412340007C8894 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C2F5D4DD1E44F0BE009824F1 /* StocksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StocksViewController.s
+		C2F5D4DD1E44F0BE009824F1 /* StocksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StocksViewController.swift; sourceTree = "<group>"; };
+		C2F5D4DF1E44F4BB009824F1 /* Stock.swift */ = {isa = PBXFi
