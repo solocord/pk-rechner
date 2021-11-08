@@ -57,4 +57,6 @@
 		C2F5D4DF1E44F4BB009824F1 /* Stock.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stock.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Be
+/* Begin PBXFrameworksBuildPhase section */
+		C2CFE1FB1E412340007C8894 /* Frameworks */ = {
+	
