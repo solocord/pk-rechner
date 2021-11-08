@@ -59,4 +59,7 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		C2CFE1FB1E412340007C8894 /* Frameworks */ = {
-	
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
