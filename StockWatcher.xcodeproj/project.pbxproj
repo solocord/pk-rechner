@@ -63,3 +63,6 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C2CFE20F1E412340007C8894 
