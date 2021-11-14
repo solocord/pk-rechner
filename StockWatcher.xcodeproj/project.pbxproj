@@ -68,4 +68,8 @@
 		C2CFE20F1E412340007C8894 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
-			f
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C2
