@@ -72,4 +72,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C2
+		C2CFE21A1E412340007C8894 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildAc
