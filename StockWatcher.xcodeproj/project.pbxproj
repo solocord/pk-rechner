@@ -84,4 +84,6 @@
 /* Begin PBXGroup section */
 		C2CFE1F51E412340007C8894 = {
 			isa = PBXGroup;
-			
+			children = (
+				C2CFE2001E412340007C8894 /* StockWatcher */,
+				C2CFE2151E41234000
