@@ -86,4 +86,5 @@
 			isa = PBXGroup;
 			children = (
 				C2CFE2001E412340007C8894 /* StockWatcher */,
-				C2CFE2151E41234000
+				C2CFE2151E412340007C8894 /* StockWatcherTests */,
+				C2CFE2201E412340007C8894 /* StockWatcherUITests 
