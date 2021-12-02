@@ -90,4 +90,6 @@
 				C2CFE2201E412340007C8894 /* StockWatcherUITests */,
 				C2CFE1FF1E412340007C8894 /* Products */,
 			);
-			sourc
+			sourceTree = "<group>";
+		};
+		C2CFE1FF1E412340007C8894 /* Products */ = {
