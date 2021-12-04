@@ -95,4 +95,6 @@
 		C2CFE1FF1E412340007C8894 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C2CFE1FE1E412340007C8894 /* StockWatcher.app 
+				C2CFE1FE1E412340007C8894 /* StockWatcher.app */,
+				C2CFE2121E412340007C8894 /* StockWatcherTests.xctest */,
+				C
