@@ -97,4 +97,7 @@
 			children = (
 				C2CFE1FE1E412340007C8894 /* StockWatcher.app */,
 				C2CFE2121E412340007C8894 /* StockWatcherTests.xctest */,
-				C
+				C2CFE21D1E412340007C8894 /* StockWatcherUITests.xctest */,
+			);
+			name = Products;
+			sou
