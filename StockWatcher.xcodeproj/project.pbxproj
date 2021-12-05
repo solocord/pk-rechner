@@ -103,3 +103,6 @@
 			sourceTree = "<group>";
 		};
 		C2CFE2001E412340007C8894 /* StockWatcher */ = {
+			isa = PBXGroup;
+			children = (
+				C2CFE2011E412340007C8894 /* AppDeleg
