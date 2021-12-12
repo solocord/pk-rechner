@@ -105,4 +105,6 @@
 		C2CFE2001E412340007C8894 /* StockWatcher */ = {
 			isa = PBXGroup;
 			children = (
-				C2CFE2011E412340007C8894 /* AppDeleg
+				C2CFE2011E412340007C8894 /* AppDelegate.swift */,
+				C2F5D4DD1E44F0BE009824F1 /* StocksViewController.swift */,
+				C2B151
