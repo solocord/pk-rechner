@@ -108,4 +108,5 @@
 				C2CFE2011E412340007C8894 /* AppDelegate.swift */,
 				C2F5D4DD1E44F0BE009824F1 /* StocksViewController.swift */,
 				C2B1515A1E4AB78A00D682D8 /* StockTableViewController.swift */,
-				C2B1515B1E
+				C2B1515B1E4AB78A00D682D8 /* StockTableViewController.xib */,
+				C21C7E2B1E4AB1C60024474E /* StockTableViewCell.
