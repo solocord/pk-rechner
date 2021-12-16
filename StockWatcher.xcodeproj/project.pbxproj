@@ -113,4 +113,7 @@
 				C2F5D4DF1E44F4BB009824F1 /* Stock.swift */,
 				C2CFE2051E412340007C8894 /* Main.storyboard */,
 				C2CFE2081E412340007C8894 /* Assets.xcassets */,
-				C2CFE20A1E4123400
+				C2CFE20A1E412340007C8894 /* LaunchScreen.storyboard */,
+				C2CFE20D1E412340007C8894 /* Info.plist */,
+			);
+			path = 
