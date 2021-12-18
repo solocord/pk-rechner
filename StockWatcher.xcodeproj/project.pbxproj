@@ -131,4 +131,5 @@
 		C2CFE2201E412340007C8894 /* StockWatcherUITests */ = {
 			isa = PBXGroup;
 			children = (
-				C2CF
+				C2CFE2211E412340007C8894 /* StockWatcherUITests.swift */,
+				C2CFE2231E412340007C8894 /* Info
