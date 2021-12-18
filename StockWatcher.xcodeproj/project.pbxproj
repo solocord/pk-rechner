@@ -128,4 +128,7 @@
 			path = StockWatcherTests;
 			sourceTree = "<group>";
 		};
-		C2CFE2
+		C2CFE2201E412340007C8894 /* StockWatcherUITests */ = {
+			isa = PBXGroup;
+			children = (
+				C2CF
