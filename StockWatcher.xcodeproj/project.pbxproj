@@ -132,4 +132,9 @@
 			isa = PBXGroup;
 			children = (
 				C2CFE2211E412340007C8894 /* StockWatcherUITests.swift */,
-				C2CFE2231E412340007C8894 /* Info
+				C2CFE2231E412340007C8894 /* Info.plist */,
+			);
+			path = StockWatcherUITests;
+			sourceTree = "<group>";
+		};
+/* End
