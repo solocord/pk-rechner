@@ -142,4 +142,4 @@
 /* Begin PBXNativeTarget section */
 		C2CFE1FD1E412340007C8894 /* StockWatcher */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C2CFE226
+			buildConfigurationList = C2CFE2261E412340007C8894 /* Build configuration list for PBXNativeTarget "StockWatc
