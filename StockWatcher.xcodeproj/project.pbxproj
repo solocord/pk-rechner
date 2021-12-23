@@ -137,4 +137,7 @@
 			path = StockWatcherUITests;
 			sourceTree = "<group>";
 		};
-/* End
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C2CFE1FD1E4123400
