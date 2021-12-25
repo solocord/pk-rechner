@@ -146,4 +146,10 @@
 			buildPhases = (
 				C2CFE1FA1E412340007C8894 /* Sources */,
 				C2CFE1FB1E412340007C8894 /* Frameworks */,
-				C2CFE1FC1E412340007C8894 /*
+				C2CFE1FC1E412340007C8894 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = StockWatche
