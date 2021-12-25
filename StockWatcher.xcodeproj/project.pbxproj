@@ -152,4 +152,6 @@
 			);
 			dependencies = (
 			);
-			name = StockWatche
+			name = StockWatcher;
+			productName = StockWatcher;
+			productReference = C2CFE1FE1E412340007C8894 
