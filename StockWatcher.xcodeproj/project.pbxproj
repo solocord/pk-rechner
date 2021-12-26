@@ -154,4 +154,7 @@
 			);
 			name = StockWatcher;
 			productName = StockWatcher;
-			productReference = C2CFE1FE1E412340007C8894 
+			productReference = C2CFE1FE1E412340007C8894 /* StockWatcher.app */;
+			productType = "com.apple.product-type.application";
+		};
+	
