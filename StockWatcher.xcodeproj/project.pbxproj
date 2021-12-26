@@ -157,4 +157,6 @@
 			productReference = C2CFE1FE1E412340007C8894 /* StockWatcher.app */;
 			productType = "com.apple.product-type.application";
 		};
-	
+		C2CFE2111E412340007C8894 /* StockWatcherTests */ = {
+			isa = PBXNativeTarget;
+			bui
