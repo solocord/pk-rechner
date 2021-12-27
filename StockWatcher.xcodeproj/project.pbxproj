@@ -161,4 +161,5 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C2CFE2291E412340007C8894 /* Build configuration list for PBXNativeTarget "StockWatcherTests" */;
 			buildPhases = (
-		
+				C2CFE20E1E412340007C8894 /* Sources */,
+				C2CFE20F
