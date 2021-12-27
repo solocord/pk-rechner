@@ -159,4 +159,6 @@
 		};
 		C2CFE2111E412340007C8894 /* StockWatcherTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C2CFE2291E412340007C8894 /* Build configuration list f
+			buildConfigurationList = C2CFE2291E412340007C8894 /* Build configuration list for PBXNativeTarget "StockWatcherTests" */;
+			buildPhases = (
+		
