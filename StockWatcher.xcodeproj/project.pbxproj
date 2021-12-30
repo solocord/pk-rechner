@@ -163,4 +163,9 @@
 			buildPhases = (
 				C2CFE20E1E412340007C8894 /* Sources */,
 				C2CFE20F1E412340007C8894 /* Frameworks */,
-				C2CFE2101E412340007C8894 /* Resources
+				C2CFE2101E412340007C8894 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C2CFE2141E4
