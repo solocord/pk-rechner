@@ -168,4 +168,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				C2CFE2141E4
+				C2CFE2141E412340007C8894 /* PBXTargetDependency */,
+			);
+			name = StockWatcherTests;
+			productNa
