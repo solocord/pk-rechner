@@ -171,4 +171,5 @@
 				C2CFE2141E412340007C8894 /* PBXTargetDependency */,
 			);
 			name = StockWatcherTests;
-			productNa
+			productName = StockWatcherTests;
+			productReference = C2CFE2121E412340007C8894 /*
