@@ -172,4 +172,5 @@
 			);
 			name = StockWatcherTests;
 			productName = StockWatcherTests;
-			productReference = C2CFE2121E412340007C8894 /*
+			productReference = C2CFE2121E412340007C8894 /* StockWatcherTests.xctest */;
+			productType = "com.apple.product-type
