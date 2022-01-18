@@ -180,4 +180,7 @@
 			buildConfigurationList = C2CFE22C1E412340007C8894 /* Build configuration list for PBXNativeTarget "StockWatcherUITests" */;
 			buildPhases = (
 				C2CFE2191E412340007C8894 /* Sources */,
-				C2CFE21A1E4123400
+				C2CFE21A1E412340007C8894 /* Frameworks */,
+				C2CFE21B1E412340007C8894 /* Resources */,
+			);
+			b
