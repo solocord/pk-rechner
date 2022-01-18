@@ -183,4 +183,7 @@
 				C2CFE21A1E412340007C8894 /* Frameworks */,
 				C2CFE21B1E412340007C8894 /* Resources */,
 			);
-			b
+			buildRules = (
+			);
+			dependencies = (
+				C2CFE21F1E412340007C8894 /* 
