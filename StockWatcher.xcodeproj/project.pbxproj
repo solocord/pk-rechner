@@ -186,4 +186,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				C2CFE21F1E412340007C8894 /* 
+				C2CFE21F1E412340007C8894 /* PBXTargetDependency */,
+			);
+			name = StockWatcherUITests;
+			productName = StockWat
