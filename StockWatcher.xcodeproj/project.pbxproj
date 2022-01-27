@@ -191,4 +191,6 @@
 			name = StockWatcherUITests;
 			productName = StockWatcherUITests;
 			productReference = C2CFE21D1E412340007C8894 /* StockWatcherUITests.xctest */;
-	
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget s
