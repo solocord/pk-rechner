@@ -199,4 +199,7 @@
 		C2CFE1F61E412340007C8894 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0820
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				TargetAttributes = {
+					C2CFE1FD1E412340007C8894
