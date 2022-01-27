@@ -196,4 +196,7 @@
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C2CFE1F61E412340007C8894 /* Project
+		C2CFE1F61E412340007C8894 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820
