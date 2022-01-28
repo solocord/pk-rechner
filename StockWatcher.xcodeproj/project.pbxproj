@@ -202,4 +202,6 @@
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 0820;
 				TargetAttributes = {
-					C2CFE1FD1E412340007C8894
+					C2CFE1FD1E412340007C8894 = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle 
