@@ -204,4 +204,7 @@
 				TargetAttributes = {
 					C2CFE1FD1E412340007C8894 = {
 						CreatedOnToolsVersion = 8.2.1;
-						ProvisioningStyle 
+						ProvisioningStyle = Automatic;
+					};
+					C2CFE2111E412340007C8894 = {
+						CreatedOnToolsVersi
