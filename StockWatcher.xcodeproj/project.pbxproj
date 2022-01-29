@@ -212,4 +212,6 @@
 						TestTargetID = C2CFE1FD1E412340007C8894;
 					};
 					C2CFE21C1E412340007C8894 = {
-						Creat
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+						TestTarg
