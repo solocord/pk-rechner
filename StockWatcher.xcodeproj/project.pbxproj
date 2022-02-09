@@ -218,4 +218,6 @@
 					};
 				};
 			};
-			buildConfigurationList = C2CFE1F91E412340007C8894 /* Build configuration list for PBXP
+			buildConfigurationList = C2CFE1F91E412340007C8894 /* Build configuration list for PBXProject "StockWatcher" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmen
