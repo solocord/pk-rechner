@@ -218,4 +218,4 @@
 					};
 				};
 			};
-			buildConfigura
+			buildConfigurationList = C2CFE1F91E412340007C8894 /* Build configuration list for PBXP
