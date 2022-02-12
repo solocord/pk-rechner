@@ -232,4 +232,5 @@
 			projectRoot = "";
 			targets = (
 				C2CFE1FD1E412340007C8894 /* StockWatcher */,
-				C2CFE2111
+				C2CFE2111E412340007C8894 /* StockWatcherTests */,
+				C2CFE21C1E412340007C8894 /* 
