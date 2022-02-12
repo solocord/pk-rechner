@@ -227,4 +227,7 @@
 				Base,
 			);
 			mainGroup = C2CFE1F51E412340007C8894;
-			productRefGroup = C2CFE1FF1E41234000
+			productRefGroup = C2CFE1FF1E412340007C8894 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets 
