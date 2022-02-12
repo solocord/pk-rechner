@@ -230,4 +230,6 @@
 			productRefGroup = C2CFE1FF1E412340007C8894 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
-			targets 
+			targets = (
+				C2CFE1FD1E412340007C8894 /* StockWatcher */,
+				C2CFE2111
