@@ -238,4 +238,7 @@
 		};
 /* End PBXProject section */
 
-/* Begin PBXResourc
+/* Begin PBXResourcesBuildPhase section */
+		C2CFE1FC1E412340007C8894 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+		
