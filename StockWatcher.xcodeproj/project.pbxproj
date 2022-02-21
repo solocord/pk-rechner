@@ -241,4 +241,6 @@
 /* Begin PBXResourcesBuildPhase section */
 		C2CFE1FC1E412340007C8894 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
-		
+			buildActionMask = 2147483647;
+			files = (
+				C2B1515D1E4AB78A00D682D8 /* StockTableVi
