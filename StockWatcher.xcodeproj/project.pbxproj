@@ -243,4 +243,5 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C2B1515D1E4AB78A00D682D8 /* StockTableVi
+				C2B1515D1E4AB78A00D682D8 /* StockTableViewController.xib in Resources */,
+				C2CFE20C1E412340007C8894 /* LaunchScreen.storyb
