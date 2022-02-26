@@ -246,4 +246,6 @@
 				C2B1515D1E4AB78A00D682D8 /* StockTableViewController.xib in Resources */,
 				C2CFE20C1E412340007C8894 /* LaunchScreen.storyboard in Resources */,
 				C2CFE2091E412340007C8894 /* Assets.xcassets in Resources */,
-				
+				C2CFE2071E412340007C8894 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDepl
