@@ -259,4 +259,9 @@
 		};
 		C2CFE21B1E412340007C8894 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
-			buildActi
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/
