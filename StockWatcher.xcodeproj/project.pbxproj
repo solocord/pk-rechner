@@ -257,4 +257,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C2CFE21B1E412
+		C2CFE21B1E412340007C8894 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActi
