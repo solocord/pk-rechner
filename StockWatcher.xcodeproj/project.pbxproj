@@ -271,4 +271,5 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C2F5D4DE1E44F0BE00982
+				C2F5D4DE1E44F0BE009824F1 /* StocksViewController.swift in Sources */,
+				C2CFE2021E412340007C8894 /* App
