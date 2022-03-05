@@ -275,4 +275,8 @@
 				C2CFE2021E412340007C8894 /* AppDelegate.swift in Sources */,
 				C21C7E2C1E4AB1C60024474E /* StockTableViewCell.swift in Sources */,
 				C2B1515C1E4AB78A00D682D8 /* StockTableViewController.swift in Sources */,
-				C2F5D4E01E44F4BB009824F1 /* Stock.swift in 
+				C2F5D4E01E44F4BB009824F1 /* Stock.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C2CFE20E
