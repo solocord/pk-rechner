@@ -281,4 +281,6 @@
 		};
 		C2CFE20E1E412340007C8894 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
-			buildActionMask 
+			buildActionMask = 2147483647;
+			files = (
+				C2CFE2171E412340007C8894 /* StockWatcherTes
