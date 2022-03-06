@@ -286,4 +286,6 @@
 				C2CFE2171E412340007C8894 /* StockWatcherTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
-		}
+		};
+		C2CFE2191E412340007C8894 /* Sources */ = {
+			isa = PBXSourcesBuildPhas
