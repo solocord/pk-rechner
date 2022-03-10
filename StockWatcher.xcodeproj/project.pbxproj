@@ -293,4 +293,8 @@
 			files = (
 				C2CFE2221E412340007C8894 /* StockWatcherUITests.swift in Sources */,
 			);
-			runOnlyForD
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTar
