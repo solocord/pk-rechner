@@ -297,4 +297,5 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXTar
+/* Begin PBXTargetDependency section */
+		C2CFE2141E412340007C8894 /* PBXTargetDependency */ 
