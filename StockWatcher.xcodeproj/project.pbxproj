@@ -298,4 +298,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		C2CFE2141E412340007C8894 /* PBXTargetDependency */ 
+		C2CFE2141E412340007C8894 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C2CFE1FD1E412340007C8894 /* StockWatcher */;
