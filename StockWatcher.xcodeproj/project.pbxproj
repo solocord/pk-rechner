@@ -304,4 +304,6 @@
 			targetProxy = C2CFE2131E412340007C8894 /* PBXContainerItemProxy */;
 		};
 		C2CFE21F1E412340007C8894 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependenc
+			isa = PBXTargetDependency;
+			target = C2CFE1FD1E412340007C8894 /* StockWatcher */;
+			targetProxy = C2CFE
