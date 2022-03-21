@@ -308,4 +308,7 @@
 			target = C2CFE1FD1E412340007C8894 /* StockWatcher */;
 			targetProxy = C2CFE21E1E412340007C8894 /* PBXContainerItemProxy */;
 		};
-/* End PBXTargetDepend
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		C2CFE2051E4123400
