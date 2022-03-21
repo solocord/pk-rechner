@@ -314,4 +314,7 @@
 		C2CFE2051E412340007C8894 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C2C
+				C2CFE2061E412340007C8894 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree
