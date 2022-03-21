@@ -311,4 +311,7 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		C2CFE2051E4123400
+		C2CFE2051E412340007C8894 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C2C
