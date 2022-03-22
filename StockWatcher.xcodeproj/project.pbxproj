@@ -319,4 +319,7 @@
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		C2CFE20A1E412340007C8894 /* LaunchScreen.storyboard *
+		C2CFE20A1E412340007C8894 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C2CFE20B1
