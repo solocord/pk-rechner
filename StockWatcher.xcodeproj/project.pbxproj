@@ -331,4 +331,7 @@
 
 /* Begin XCBuildConfiguration section */
 		C2CFE2241E412340007C8894 /* Debug */ = {
-			isa = XCB
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANAL
