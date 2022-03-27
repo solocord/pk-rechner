@@ -329,4 +329,6 @@
 		};
 /* End PBXVariantGroup section */
 
-/* Begin XCB
+/* Begin XCBuildConfiguration section */
+		C2CFE2241E412340007C8894 /* Debug */ = {
+			isa = XCB
