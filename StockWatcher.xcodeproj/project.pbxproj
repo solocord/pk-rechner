@@ -424,4 +424,6 @@
 			name = Release;
 		};
 		C2CFE2271E412340007C8894 /* Debug */ = {
-			isa = XCB
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIco
