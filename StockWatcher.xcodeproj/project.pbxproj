@@ -421,4 +421,7 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
-	
+			name = Release;
+		};
+		C2CFE2271E412340007C8894 /* Debug */ = {
+			isa = XCB
