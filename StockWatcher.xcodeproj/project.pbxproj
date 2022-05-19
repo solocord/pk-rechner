@@ -429,4 +429,5 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = StockWatcher/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_I
+				PRODUCT_BUNDLE_IDENTIFIER = com.philipclapper.StockWatcher;
+				PRODUCT_NAME = "$(TARGET
