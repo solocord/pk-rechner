@@ -439,4 +439,5 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFO
+				INFOPLIST_FILE = StockWatcher/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherit
