@@ -435,4 +435,5 @@
 			};
 			name = Debug;
 		};
-		C2CFE2281E412
+		C2CFE2281E412340007C8894 /* Release */ = {
+			isa = XCBuildConfiguration;
