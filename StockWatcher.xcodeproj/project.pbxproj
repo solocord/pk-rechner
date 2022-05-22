@@ -437,3 +437,6 @@
 		};
 		C2CFE2281E412340007C8894 /* Release */ = {
 			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFO
