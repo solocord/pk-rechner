@@ -445,3 +445,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
+			name = Release;
+		};
+		C2CFE22A1E412340007C8894 /* Debug */ = {
+			isa = XCBuil
