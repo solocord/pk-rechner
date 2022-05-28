@@ -448,4 +448,6 @@
 			name = Release;
 		};
 		C2CFE22A1E412340007C8894 /* Debug */ = {
-			isa = XCBuil
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRAR
