@@ -457,4 +457,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.philipclapper.StockWatcherTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StockWatcher.app/Sto
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StockWatcher.app/StockWatcher";
+			};
+			name = Debug;
+		};
+		C2CFE22B1E412340007C8894 /* R
