@@ -461,4 +461,7 @@
 			};
 			name = Debug;
 		};
-		C2CFE22B1E412340007C8894 /* R
+		C2CFE22B1E412340007C8894 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EM
