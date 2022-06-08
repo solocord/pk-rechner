@@ -475,4 +475,6 @@
 			};
 			name = Release;
 		};
-		C2CFE22D1E41
+		C2CFE22D1E412340007C8894 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettin
