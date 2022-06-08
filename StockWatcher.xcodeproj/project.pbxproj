@@ -477,4 +477,6 @@
 		};
 		C2CFE22D1E412340007C8894 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			buildSettin
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = StockWatcherUITests/Inf
