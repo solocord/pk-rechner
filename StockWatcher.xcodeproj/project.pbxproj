@@ -484,4 +484,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.philipclapper.StockWatcherUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_TARGET_
+				TEST_TARGET_NAME = StockWatcher;
+			};
+			name = Debug;
+		};
+		C2CFE22E1E412340007C8894 /* Release */ 
