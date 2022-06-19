@@ -491,4 +491,6 @@
 		C2CFE22E1E412340007C8894 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LI
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = StockWatcherUITests/Info.plist;
+				LD
