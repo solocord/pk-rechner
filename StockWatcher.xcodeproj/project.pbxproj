@@ -501,4 +501,7 @@
 			};
 			name = Release;
 		};
-/* End XCBuildConf
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C2CFE1F91E
