@@ -505,4 +505,6 @@
 
 /* Begin XCConfigurationList section */
 		C2CFE1F91E412340007C8894 /* Build configuration list for PBXProject "StockWatcher" */ = {
-			isa = XC
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C2CFE2241E412340007C8894 /* 
