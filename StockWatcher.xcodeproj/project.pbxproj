@@ -513,4 +513,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C2CFE2261E412340007C8894 /* Build configuration list for PBXNativeTarget "StockWatcher" */ =
+		C2CFE2261E412340007C8894 /* Build configuration list for PBXNativeTarget "StockWatcher" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C2CFE2271E412
