@@ -516,4 +516,7 @@
 		C2CFE2261E412340007C8894 /* Build configuration list for PBXNativeTarget "StockWatcher" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C2CFE2271E412
+				C2CFE2271E412340007C8894 /* Debug */,
+				C2CFE2281E412340007C8894 /* Release */,
+			);
+			defaultCon
