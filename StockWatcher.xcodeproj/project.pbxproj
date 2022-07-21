@@ -531,4 +531,4 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-	
+		C2CFE22C1E412340007C8894 /* Build configuration list for PBXNativeTarget "S
