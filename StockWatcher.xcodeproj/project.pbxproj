@@ -528,4 +528,7 @@
 				C2CFE22A1E412340007C8894 /* Debug */,
 				C2CFE22B1E412340007C8894 /* Release */,
 			);
-			defaultConfigurationIsVisib
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+	
