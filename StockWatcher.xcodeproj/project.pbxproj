@@ -534,4 +534,5 @@
 		C2CFE22C1E412340007C8894 /* Build configuration list for PBXNativeTarget "StockWatcherUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C2CFE2
+				C2CFE22D1E412340007C8894 /* Debug */,
+				C2CFE22E1E412340007C8894
