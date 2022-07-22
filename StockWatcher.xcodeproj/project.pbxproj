@@ -535,4 +535,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C2CFE22D1E412340007C8894 /* Debug */,
-				C2CFE22E1E412340007C8894
+				C2CFE22E1E412340007C8894 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurat
