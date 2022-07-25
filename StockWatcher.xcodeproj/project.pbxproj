@@ -538,4 +538,8 @@
 				C2CFE22E1E412340007C8894 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurat
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C2CFE1F61E412340
