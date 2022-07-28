@@ -2,4 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:StockWatcher.xco
+      location = "self:StockWatcher.xcodeproj">
+   </FileRef>
+</Workspace>
