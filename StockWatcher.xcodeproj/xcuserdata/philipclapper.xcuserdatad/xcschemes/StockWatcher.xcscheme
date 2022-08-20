@@ -12,4 +12,6 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
-            <Builda
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintI
