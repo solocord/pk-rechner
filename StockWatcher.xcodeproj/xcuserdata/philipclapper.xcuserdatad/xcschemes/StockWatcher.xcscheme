@@ -14,4 +14,6 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintI
+               BlueprintIdentifier = "C2CFE1FD1E412340007C8894"
+               BuildableName = "StockWatcher.app"
+  
