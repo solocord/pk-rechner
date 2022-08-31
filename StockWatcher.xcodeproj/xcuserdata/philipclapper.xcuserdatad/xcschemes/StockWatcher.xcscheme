@@ -24,3 +24,5 @@
             buildForTesting = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES"
