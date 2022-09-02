@@ -27,4 +27,6 @@
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
             <BuildableReference
-               BuildableIdentifier = "primar
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C2CFE2111E412340007C8894"
+      
