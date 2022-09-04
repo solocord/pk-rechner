@@ -33,4 +33,8 @@
                BlueprintName = "StockWatcherTests"
                ReferencedContainer = "container:StockWatcher.xcodeproj">
             </BuildableReference>
-         </Build
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      b
