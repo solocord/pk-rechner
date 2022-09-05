@@ -37,4 +37,5 @@
       </BuildActionEntries>
    </BuildAction>
    <TestAction
-      b
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerF
