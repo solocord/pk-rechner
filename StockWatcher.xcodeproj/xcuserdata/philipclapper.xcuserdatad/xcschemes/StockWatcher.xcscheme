@@ -49,4 +49,6 @@
             BlueprintIdentifier = "C2CFE1FD1E412340007C8894"
             BuildableName = "StockWatcher.app"
             BlueprintName = "StockWatcher"
-            ReferencedContainer 
+            ReferencedContainer = "container:StockWatcher.xcodeproj">
+         </BuildableReference>
+      </MacroExpansi
