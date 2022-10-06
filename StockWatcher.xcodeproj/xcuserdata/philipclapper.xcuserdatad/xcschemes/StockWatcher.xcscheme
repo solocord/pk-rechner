@@ -45,4 +45,5 @@
       </Testables>
       <MacroExpansion>
          <BuildableReference
-     
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C2CFE1FD1
