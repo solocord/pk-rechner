@@ -54,4 +54,7 @@
       </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
-   </TestActio
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentif
