@@ -68,4 +68,5 @@
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
          <BuildableReference
-            BuildableIdent
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C2CFE1FD1E4123400
