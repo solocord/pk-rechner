@@ -69,4 +69,6 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C2CFE1FD1E4123400
+            BlueprintIdentifier = "C2CFE1FD1E412340007C8894"
+            BuildableName = "StockWatcher.app"
+            Bluepri
