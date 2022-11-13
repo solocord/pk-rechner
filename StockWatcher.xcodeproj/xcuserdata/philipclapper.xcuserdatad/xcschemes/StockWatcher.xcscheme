@@ -75,4 +75,7 @@
             ReferencedContainer = "container:StockWatcher.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <Ad
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAc
