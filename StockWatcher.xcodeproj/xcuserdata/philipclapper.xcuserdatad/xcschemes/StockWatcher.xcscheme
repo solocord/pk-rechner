@@ -78,4 +78,6 @@
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
-   <ProfileAc
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSch
