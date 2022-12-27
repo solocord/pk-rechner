@@ -94,4 +94,7 @@
             ReferencedContainer = "container:StockWatcher.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-   </ProfileA
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
