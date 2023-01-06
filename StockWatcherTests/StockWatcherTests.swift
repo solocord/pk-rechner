@@ -7,4 +7,8 @@
 //
 
 import XCTest
-@testable import StockWatche
+@testable import StockWatcher
+
+class StockWatcherTests: XCTestCase {
+    
+    // MARK: - StockWatcher C
