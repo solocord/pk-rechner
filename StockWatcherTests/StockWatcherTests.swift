@@ -11,4 +11,6 @@ import XCTest
 
 class StockWatcherTests: XCTestCase {
     
-    // MARK: - StockWatcher C
+    // MARK: - StockWatcher Class Tests
+    
+    // Confirm that the Stock initializer returns a Stock object when
