@@ -13,4 +13,6 @@ class StockWatcherTests: XCTestCase {
     
     // MARK: - StockWatcher Class Tests
     
-    // Confirm that the Stock initializer returns a Stock object when
+    // Confirm that the Stock initializer returns a Stock object when passed valid parameters
+    func testStockInitializationSucceeds() {
+        // Name an
