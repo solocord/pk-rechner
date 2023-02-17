@@ -16,4 +16,7 @@ class StockWatcherTests: XCTestCase {
     // Confirm that the Stock initializer returns a Stock object when passed valid parameters
     func testStockInitializationSucceeds() {
         // Name and ticker are produced
-        let nameExists = Stock.init(name: 
+        let nameExists = Stock.init(name: "AT&T", ticker: "T")
+        XCTAssertNotNil(nameExists)
+        
+     
