@@ -21,4 +21,6 @@ class StockWatcherTests: XCTestCase {
         
         // Confirm that the Stock initializer should fail if name or ticker is not passed in
         let nullName = Stock.init(name: "", ticker: "T")
-        XCTA
+        XCTAssertNil(nullName)
+        
+        let nullTicker = Stock.init(name: "AT&T"
