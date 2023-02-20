@@ -23,4 +23,9 @@ class StockWatcherTests: XCTestCase {
         let nullName = Stock.init(name: "", ticker: "T")
         XCTAssertNil(nullName)
         
-        let nullTicker = Stock.init(name: "AT&T"
+        let nullTicker = Stock.init(name: "AT&T", ticker: "")
+        XCTAssertNil(nullTicker)
+    }
+    
+//    override func setUp() {
+//        supe
