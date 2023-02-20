@@ -28,4 +28,5 @@ class StockWatcherTests: XCTestCase {
     }
     
 //    override func setUp() {
-//        supe
+//        super.setUp()
+        // Put setup code here. This method is called before the invocation of each test m
