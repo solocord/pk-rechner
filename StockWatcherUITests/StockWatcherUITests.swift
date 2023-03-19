@@ -1,0 +1,3 @@
+//
+//  StockWatcherUITests.swift
+//  StockWatcherUITests
