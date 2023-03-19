@@ -8,4 +8,7 @@
 
 import XCTest
 
-class S
+class StockWatcherUITests: XCTestCase {
+        
+    override func setUp() {
+        sup
