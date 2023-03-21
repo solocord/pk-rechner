@@ -13,4 +13,6 @@ class StockWatcherUITests: XCTestCase {
     override func setUp() {
         super.setUp()
         
-        // Put setup code here. This method is call
+        // Put setup code here. This method is called before the invocation of each test method in the class.
+        
+        // In
