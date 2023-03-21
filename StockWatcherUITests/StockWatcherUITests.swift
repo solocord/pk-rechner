@@ -11,4 +11,6 @@ import XCTest
 class StockWatcherUITests: XCTestCase {
         
     override func setUp() {
-        sup
+        super.setUp()
+        
+        // Put setup code here. This method is call
