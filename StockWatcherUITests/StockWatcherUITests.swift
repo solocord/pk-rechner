@@ -20,4 +20,4 @@ class StockWatcherUITests: XCTestCase {
         // UI tests must launch the application that they test. Doing this in setup will make sure it happens for each test method.
         XCUIApplication().launch()
 
-        // In UI tests it’s im
+        // In UI tests it’s important to set the initial state - such as interface orientation - required for your tests
