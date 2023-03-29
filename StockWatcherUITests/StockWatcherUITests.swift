@@ -24,4 +24,5 @@ class StockWatcherUITests: XCTestCase {
     }
     
     override func tearDown() {
-        // Put teardown code here. This metho
+        // Put teardown code here. This method is called after the invocation of each test method in the class.
+ 
