@@ -29,4 +29,5 @@ class StockWatcherUITests: XCTestCase {
     }
     
     func testExample() {
-        // Use r
+        // Use recording to get started writing UI tests.
+        // Use XCTAssert and related f
